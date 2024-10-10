@@ -71,6 +71,6 @@ Postman collections for testing the services are available in the postman_collec
 
 ### License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 Note: Code based, and modified for demo purposes, on the source code of the YouTube video course "[ASP.NET Core Full Course For Beginners](https://www.youtube.com/watch?v=ByYyk8eMG6c)" by Julio Casal at https://dotnetacademy.io. I encourage you to visit this resource and thank the author for providing the original code.

@@ -7,6 +7,7 @@ React based frontend for the Play Economy system.
 
 ## To build the frontend
 Run this at the root of this repository:
+
 ```
 npm install
 ```
