@@ -46,3 +46,31 @@ To build the entire solution, open a terminal and navigate to the root directory
 ```sh
 dotnet build [NetMicroservicesBasics.sln]
 ```
+
+### Running the Services
+
+To run the services, navigate to the respective service directories and use the dotnet run command. For example, to run the Play.Inventory service:
+
+```sh
+cd ./Play.Inventory.Service
+dotnet run
+```
+
+### Running the Frontend
+
+To run the frontend application, navigate to the Play.Frontend directory and use the npm start command:
+
+```sh
+cd ./Play.Frontend
+npm start
+```
+
+### Testing
+
+Postman collections for testing the services are available in the postman_collections directory. Import these collections into Postman to test the APIs.
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Note: Code based, and modified for demo purposes, on the source code of the YouTube video course "[ASP.NET Core Full Course For Beginners](https://www.youtube.com/watch?v=ByYyk8eMG6c)" by Julio Casal at https://dotnetacademy.io. I encourage you to visit this resource and thank the author for providing the original code.
