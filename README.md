@@ -44,5 +44,5 @@ This repository contains a collection of microservices built using .NET. The mic
 To build the entire solution, open a terminal and navigate to the root directory of the repository. Then run:
 
 ```sh
-dotnet build [NetMicroservicesBasics.sln](http://_vscodecontentref_/#%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5Csource%5C%5CNetMicroservicesBasics%5C%5CNetMicroservicesBasics.sln%22%2C%22_sep%22%3A1%2C%22path%22%3A%22%2Fc%3A%2Fsource%2FNetMicroservicesBasics%2FNetMicroservicesBasics.sln%22%2C%22scheme%22%3A%22file%22%7D%7D)
+dotnet build [NetMicroservicesBasics.sln]
 ```
